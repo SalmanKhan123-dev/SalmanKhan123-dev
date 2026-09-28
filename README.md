@@ -109,8 +109,8 @@ Organised and led the technical event **Tech Hunt** to promote problem-solving a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SalmanKhan123-dev&show_icons=true&hide_border=true&theme=default&title_color=0B5394&icon_color=0B5394" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanKhan123-dev&layout=compact&hide_border=true&theme=default&title_color=0B5394" alt="Top languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalmanKhan123-dev&theme=default" alt="GitHub profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalmanKhan123-dev&theme=default" alt="Most used languages" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=SalmanKhan123-dev&hide_border=true&ring=0B5394&fire=0B5394&currStreakLabel=0B5394" alt="GitHub streak" />
 
