@@ -1,12 +1,6 @@
 <div align="center">
 
-# Salman Khan
-
-### Full-Stack Developer · Data Engineering & Data Science Enthusiast
-
-<a href="https://github.com/SalmanKhan123-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0B5394&center=true&vCenter=true&width=620&lines=Building+full-stack+products+with+practical+AI;React+%7C+Node.js+%7C+MongoDB+%7C+Redis;B.Tech+CSE+%40+IILM+University;Vice+President%2C+Coding+Club" alt="Typing tagline" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Salman Khan: Full-Stack Developer" />
 
 <br/>
 
@@ -16,130 +10,207 @@
 
 </div>
 
----
+## `> whoami`
 
-## 👨‍💻 About Me
+```json
+{
+  "name": "Salman Khan",
+  "role": "Full-Stack Developer | Data Engineering & Data Science Enthusiast",
+  "education": "B.Tech CSE (Final Year), IILM University | CGPA 9.03/10",
+  "location": "Greater Noida, India",
+  "leadership": "Vice President, Coding Club",
+  "currently_building": "AI chatbot for cybersecurity awareness training",
+  "currently_learning": ["Advanced Java data structures", "LeetCode problem-solving patterns"],
+  "ask_me_about": ["React", "Node.js", "MongoDB", "Redis caching", "LLM API integration", "Java DSA"],
+  "open_to": "Collaborating on full-stack and AI-powered projects"
+}
+```
 
-I'm a final-year **B.Tech Computer Science Engineering** student at **IILM University, Greater Noida** (2023 – 2027, CGPA 9.03/10). I build full-stack web applications, add practical AI features to them, and enjoy turning raw data into clear insights.
+<br/>
 
-My work sits at the intersection of three things:
-
-- **Full-stack engineering:** React, TypeScript, Node.js, Express and MongoDB applications with real authentication, caching and deployment.
-- **Applied AI:** integrating LLMs (Groq / LLaMA 3) into products such as trip planners and content generators.
-- **Data & cloud:** Python-based analysis, ETL and data-pipeline fundamentals on AWS Academy.
-
-I also practise data structures and algorithms in Java and lead technical events as **Vice President of the university Coding Club**.
-
-<!-- EDIT: add one sentence about what you want to do next (roles, domains, interests). -->
-
----
-
-## 🔭 What I'm Up To
-
-| | |
-|---|---|
-| 🚧 **Building** | An AI chatbot for cybersecurity awareness training (major project) |
-| 🌱 **Learning** | Advanced Java data structures, linked lists and problem-solving patterns on LeetCode |
-| 🤝 **Open to** | Collaborating on full-stack and AI-powered projects |
-| 💬 **Ask me about** | React, Node.js, MongoDB, Redis caching, integrating LLM APIs, Java DSA |
-
-<!-- EDIT: update this table whenever your focus changes. -->
-
----
-
-## 🛠️ Tech Stack
+## `> stack --list`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,tailwind,bootstrap&theme=light" alt="Web" />
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,redis,pandas,numpy&theme=light" alt="Languages and data" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,figma,vscode,vercel&theme=light" alt="Tools" />
-
+<img src="assets/skills.svg" width="100%" alt="Tech stack" />
 </div>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
-| **Web** | HTML, CSS, Bootstrap, Tailwind CSS, React, Node.js, Express.js, REST APIs |
-| **Databases** | MySQL, MongoDB, Redis (caching) |
-| **Data & ML** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Exploratory Data Analysis |
-| **Tools & Platforms** | Git, GitHub, Docker, Postman, VS Code, Eclipse, Figma, Google Colab, Linux, AWS Academy |
-| **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems |
+<br/>
 
----
+## `> projects --featured`
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **GhumiGumi** | AI-powered travel blog platform with JWT and Google OAuth login, full CRUD, an admin dashboard, and AI Trip Planner, Destination Finder and Blog Writer features. Redis session caching reduces response latency. | React, TypeScript, Node.js, MongoDB, Redis, Groq (LLaMA 3) | [Live](https://ghumigumi-1.onrender.com) |
-| **WanderLust** | Airbnb-style travel listings platform with category filtering, pagination, Passport.js authentication and Cloudinary image uploads. | Node.js, Express, MongoDB Atlas, EJS, Passport.js, Cloudinary | [Live](https://wanderlust-full-stack-project-fbuz.onrender.com) |
-| **Personal Finance Dashboard** | Budgeting app with automated expense categorisation, monthly spending-trend analysis and report generation, plus an interactive dashboard. | Python, Pandas, Matplotlib | [GitHub](https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard) |
-| **Portfolio Website** | Personal portfolio with a project gallery, resume download and an EmailJS-powered contact form. | HTML, CSS, JavaScript | [Live](https://portfolio-salman-khan4.vercel.app/) · [GitHub](https://github.com/SalmanKhan123-dev/Portfolio) |
-| **Cybersecurity Awareness Chatbot** | AI chatbot for cybersecurity awareness training, designed from published research on GPT-enabled learning. *(In progress)* | AI / LLM | Coming soon |
+### 🧳 GhumiGumi
+**AI-powered travel blog platform**
 
-<!-- EDIT: add the GitHub repo link for GhumiGumi and WanderLust in the Links column once you want them public. -->
+JWT and Google OAuth login, full CRUD, admin dashboard, and AI Trip Planner, Destination Finder and Blog Writer. Redis session caching reduces response latency.
 
----
+![React](https://img.shields.io/badge/React-0B5394?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B5394?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B5394?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B5394?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0B5394?style=flat-square&logo=redis&logoColor=white)
 
-## 💼 Experience & Leadership
+[**▶ Live Demo**](https://ghumigumi-1.onrender.com)
 
-**Data Engineering Virtual Intern** · EduSkills Foundation (AICTE) · *Apr 2026 – Jun 2026*
-ETL processes, data pipelines, cloud computing fundamentals and data-management techniques on AWS Academy, through hands-on labs with structured datasets.
+</td>
+<td width="50%" valign="top">
 
-**Data Science Intern** · YBI Foundation Pvt. Ltd. · *May 2025 – Jul 2025*
-End-to-end data analysis in Python (Pandas, NumPy): cleaning, preprocessing, EDA, and machine learning models for prediction tasks with clear visualisations.
+### 🏡 WanderLust
+**Airbnb-style travel listings platform**
 
-**Vice President, Coding Club** · IILM University · *Aug 2025 – Present*
+Category filtering, pagination, Passport.js authentication and Cloudinary image uploads on MongoDB Atlas, deployed on Render.
+
+![Node.js](https://img.shields.io/badge/Node.js-0B5394?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0B5394?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B5394?style=flat-square&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B5394?style=flat-square&logo=bootstrap&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0B5394?style=flat-square&logo=cloudinary&logoColor=white)
+
+[**▶ Live Demo**](https://wanderlust-full-stack-project-fbuz.onrender.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Personal Finance Dashboard
+**Budgeting and spending analytics**
+
+Automated expense categorisation, monthly spending-trend analysis, report generation and an interactive dashboard.
+
+![Python](https://img.shields.io/badge/Python-0B5394?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0B5394?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B5394?style=flat-square&logoColor=white)
+
+[**▶ View Code**](https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity Awareness Chatbot
+**AI chatbot for security training** *(in progress)*
+
+Designed from published research on GPT-enabled cybersecurity learning, aimed at making awareness training interactive and efficient.
+
+![AI](https://img.shields.io/badge/LLM-0B5394?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/status-in_progress-d29922?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧩 How GhumiGumi works (architecture)</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    U([User]) --> C[React + TypeScript client]
+    C -->|REST + JWT / Google OAuth| A[Node.js + Express API]
+    A --> M[(MongoDB)]
+    A <--> R[(Redis session cache)]
+    A --> G[Groq API · LLaMA 3]
+    G --> F[Trip Planner · Destination Finder · Blog Writer]
+```
+
+</details>
+
+<br/>
+
+## `> journey --timeline`
+
+```mermaid
+timeline
+    title Path so far
+    2023 : Started B.Tech CSE at IILM University
+    2024 : Data analysis projects in Python
+    2025 : Data Science Intern at YBI Foundation
+         : Vice President, Coding Club
+         : Java and Data Science certifications
+         : Full Stack Web Development certification
+    2026 : Data Engineering Intern at EduSkills (AICTE)
+         : Shipped GhumiGumi and WanderLust
+         : Building the cybersecurity chatbot
+```
+
+<br/>
+
+## `> experience --expand`
+
+<details open>
+<summary><b>💼 Data Engineering Virtual Intern</b> · EduSkills Foundation (AICTE) · <i>Apr 2026 – Jun 2026</i></summary>
+
+<br/>
+
+ETL processes, data pipelines, cloud computing fundamentals and data-management techniques on AWS Academy, through hands-on labs with structured datasets and cloud data services.
+
+</details>
+
+<details>
+<summary><b>📈 Data Science Intern</b> · YBI Foundation Pvt. Ltd. · <i>May 2025 – Jul 2025</i></summary>
+
+<br/>
+
+End-to-end analysis of real-world datasets in Python (Pandas, NumPy): cleaning, preprocessing and EDA. Built and evaluated machine learning models for prediction tasks and communicated findings through clear visualisations.
+
+</details>
+
+<details>
+<summary><b>🏆 Vice President, Coding Club</b> · IILM University · <i>Aug 2025 – Present</i></summary>
+
+<br/>
+
 Organised and led the technical event **Tech Hunt** to promote problem-solving and teamwork among students.
 
----
+</details>
 
-## 🎓 Certifications
+<details>
+<summary><b>🎓 Certifications</b></summary>
+
+<br/>
 
 - **Full Stack Web Development**, Apna College (Dec 2025)
 - **Java Programming Fundamentals**, Infosys Springboard (Aug 2025)
 - **Data Science with Python**, Infosys Springboard (Apr 2025)
 
----
+</details>
 
-## 📊 GitHub Activity
+<br/>
+
+## `> stats --live`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalmanKhan123-dev&theme=default" alt="GitHub profile details" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalmanKhan123-dev&theme=default" alt="Most used languages" width="49%" />
+<img src="assets/stats.svg" width="100%" alt="GitHub stats and most used languages" />
 
-<img src="https://streak-stats.demolab.com/?user=SalmanKhan123-dev&hide_border=true&ring=0B5394&fire=0B5394&currStreakLabel=0B5394" alt="GitHub streak" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=SalmanKhan123-dev&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
----
+<br/>
 
-## 📂 Other Repositories
+## `> contact --open`
 
-| Repository | What's inside |
+| | |
 |---|---|
-| [LEETCODE](https://github.com/SalmanKhan123-dev/LEETCODE) | LeetCode solutions in Java |
-| [Java-Programming](https://github.com/SalmanKhan123-dev/Java-Programming) | Java practice and fundamentals |
-| [Compiler-Design](https://github.com/SalmanKhan123-dev/Compiler-Design) | Compiler design coursework in Java |
-| [Spotify_Clone](https://github.com/SalmanKhan123-dev/Spotify_Clone) | HTML/CSS Spotify UI clone from the start of my web development journey |
-| [WebDev_practice](https://github.com/SalmanKhan123-dev/WebDev_practice) | Web development practice exercises |
-
----
-
-## 📫 Let's Connect
-
-I'm always happy to talk about projects, collaboration or ideas.
-
-- 🌐 Portfolio: [portfolio-salman-khan4.vercel.app](https://portfolio-salman-khan4.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/khansalman2005](https://www.linkedin.com/in/khansalman2005)
-- 📧 Email: [khansalmanacc@gmail.com](mailto:khansalmanacc@gmail.com)
+| 🌐 **Portfolio** | [portfolio-salman-khan4.vercel.app](https://portfolio-salman-khan4.vercel.app/) |
+| 💼 **LinkedIn** | [linkedin.com/in/khansalman2005](https://www.linkedin.com/in/khansalman2005) |
+| 📧 **Email** | [khansalmanacc@gmail.com](mailto:khansalmanacc@gmail.com) |
 
 <div align="center">
-
-⭐ *If you like something here, a star on a repo goes a long way.*
-
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </div>
