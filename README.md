@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Salman%20Khan&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%26%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Salman Khan Header" />
-  
+  <h1>👋 Hi, I'm Salman Khan</h1>
+  <h3>⚡ Full-Stack Developer | Data Engineering & AI Enthusiast</h3>
+  <p><b>B.Tech CSE (Final Year) @ IILM University | CGPA: 9.03/10</b></p>
+  <p><i>Turning an empty directory into scalable, production-ready web products.</i></p>
+
   <p align="center">
-    <a href="https://portfolio-salman-khan4.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/khansalman2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portfolio-salman-khan4.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/khansalman2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:khansalmanacc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
@@ -207,6 +210,6 @@ I regularly solve Data Structures and Algorithms problems in Java on LeetCode wi
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer" width="100%" alt="Footer" />
+  <p>⭐ <i>"Shipping early, deploying often, and learning from what breaks."</i> ⭐</p>
   <p><b>Let's build something impactful together!</b></p>
 </div>
