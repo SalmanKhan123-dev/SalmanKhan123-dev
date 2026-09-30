@@ -1,373 +1,353 @@
-<div align="center">
+# Salman Khan
 
-<img src="assets/header.svg" width="100%" alt="Salman Khan: Full-Stack Developer" />
+### Full-Stack Developer · AI & Data Engineering Enthusiast
 
-<br/>
+📍 Greater Noida, India · 🎓 B.Tech Computer Science Engineering · IILM University
+💡 Building practical products at the intersection of **full-stack development, AI, and data**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B5394?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-salman-khan4.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B5394?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansalman2005)
-[![Email](https://img.shields.io/badge/Email-0B5394?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khansalmanacc@gmail.com)
+[Portfolio](https://portfolio-salman-khan4.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/khansalman2005) · [Email](mailto:khansalmanacc@gmail.com)
 
-</div>
+---
 
-## `> whoami`
+## 👨‍💻 About Me
 
-```json
-{
-  "name": "Salman Khan",
-  "role": "Full-Stack Developer | Data Engineering & Data Science Enthusiast",
-  "education": "B.Tech CSE (Final Year), IILM University | CGPA 9.03/10",
-  "location": "Greater Noida, India",
-  "leadership": "Vice President, Coding Club",
-  "currently_building": "AI chatbot for cybersecurity awareness training",
-  "currently_learning": ["Advanced Java data structures", "LeetCode problem-solving patterns"],
-  "ask_me_about": ["React", "Node.js", "MongoDB", "Redis caching", "LLM API integration", "Java DSA"],
-  "open_to": "Collaborating on full-stack and AI-powered projects"
-}
+I'm a final-year **B.Tech Computer Science Engineering student at IILM University** with a CGPA of **9.03/10**, focused on building production-oriented web applications and exploring applied AI and data engineering.
+
+I enjoy taking an idea from an empty repository to a deployed product — designing the database, building APIs, implementing authentication, integrating AI capabilities, improving performance, and deploying the application.
+
+My experience spans:
+
+* 🚀 **Full-Stack Development** — React, TypeScript, Node.js, Express.js
+* 🤖 **Applied AI** — LLM APIs, prompt engineering, AI-powered product features
+* 📊 **Data Science** — Python, Pandas, NumPy, EDA and machine learning
+* ☁️ **Data Engineering** — ETL, data pipelines and cloud fundamentals
+* 🧠 **Problem Solving** — Java, DSA and LeetCode
+* 👥 **Technical Leadership** — Vice President of the university Coding Club
+
+Currently, I'm building an **AI-powered cybersecurity awareness chatbot** and continuing to strengthen my DSA and data engineering fundamentals.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`Python` `Java` `JavaScript` `TypeScript` `SQL`
+
+### 🎨 Frontend
+
+`React` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `REST APIs` `JWT` `Passport.js` `OAuth`
+
+### 🗄️ Databases & Caching
+
+`MongoDB` `MongoDB Atlas` `Mongoose` `MySQL` `Redis`
+
+### 🤖 AI & Data
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Groq API` `LLaMA 3`
+
+### ☁️ Tools & Platforms
+
+`Git` `GitHub` `Docker` `AWS Academy` `Postman` `Linux` `Figma` `VS Code` `Google Colab`
+
+### 🧠 Computer Science
+
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
+
+---
+
+# 🚀 Featured Projects
+
+## 🧳 GhumiGumi
+
+### AI-Powered Travel & Blogging Platform
+
+A full-stack travel platform designed to combine travel discovery, blogging and AI-powered assistance in a single application.
+
+**What I built**
+
+* 🔐 JWT-based authentication and Google OAuth
+* 📝 Complete blog CRUD functionality
+* 👨‍💼 Admin dashboard for content management
+* 🤖 AI Trip Planner
+* 🌍 AI Destination Finder
+* ✍️ AI Blog Writer
+* ⚡ Redis session caching
+* 📄 RESTful backend architecture
+* 🗄️ MongoDB data persistence
+* 🚀 Production deployment on Render
+
+**Tech:** `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `Groq API`
+
+**Live:** https://ghumigumi-1.onrender.com
+
+---
+
+## 🏡 WanderLust
+
+### Full-Stack Travel Rental Platform
+
+An Airbnb-inspired platform that allows users to discover, create and manage travel property listings.
+
+**What I built**
+
+* 🏠 Complete listing CRUD operations
+* 🔎 Category-based filtering
+* 📄 Pagination for scalable listing discovery
+* 🔐 Authentication and authorization with Passport.js
+* ⭐ Review functionality
+* 🖼️ Cloudinary image uploads
+* ☁️ MongoDB Atlas integration
+* 📱 Responsive server-rendered interface
+* 🚀 Deployment on Render
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Bootstrap` `Passport.js` `Cloudinary`
+
+**Live:** https://wanderlust-full-stack-project-fbuz.onrender.com
+
+---
+
+## 💸 Personal Finance Dashboard
+
+### Data Analytics & Budgeting Application
+
+A Python-based financial analytics application designed to transform raw transaction data into understandable spending insights.
+
+**What I built**
+
+* 📂 CSV/Excel transaction import
+* 🧹 Automated data cleaning and preprocessing
+* 🏷️ Expense categorisation
+* 📊 Daily, weekly and monthly spending analysis
+* 📈 Spending trend visualisation
+* 💰 Budget and expenditure insights
+* 📑 Financial report generation
+* 📱 Interactive dashboard
+
+**Tech:** `Python` `Pandas` `NumPy` `PostgreSQL` `SQLAlchemy` `Streamlit` `Plotly`
+
+**Source Code:**
+https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard
+
+---
+
+## 🛡️ Cybersecurity Awareness Chatbot
+
+### AI-Powered Security Training Assistant
+
+**Status: 🚧 In Progress**
+
+My current major project is an AI chatbot designed to make cybersecurity awareness training more interactive.
+
+The project explores how conversational AI can be used to:
+
+* 🔐 Explain cybersecurity concepts
+* 🎯 Provide scenario-based security questions
+* 🧠 Test user understanding
+* 💬 Provide interactive learning assistance
+* 📚 Support cybersecurity awareness training
+
+The system is being developed with guidance from published research on AI-assisted cybersecurity education.
+
+**Focus:** `AI` `LLMs` `Cybersecurity` `NLP` `Educational Technology`
+
+---
+
+# 🧩 Project Architecture
+
+### GhumiGumi
+
+```text
+                    ┌─────────────────────┐
+                    │       User          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                 ┌─────────────────────────┐
+                 │ React + TypeScript      │
+                 │       Frontend          │
+                 └────────────┬────────────┘
+                              │
+                         REST / JWT
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │ Node.js + Express       │
+                 │        Backend          │
+                 └───────┬─────────┬───────┘
+                         │         │
+                 ┌───────▼───┐ ┌──▼─────────┐
+                 │ MongoDB   │ │   Redis    │
+                 │ Database  │ │   Sessions │
+                 └───────────┘ └────────────┘
+                         │
+                         ▼
+                 ┌─────────────────────────┐
+                 │      Groq / LLaMA       │
+                 │       AI Services       │
+                 └────────────┬────────────┘
+                              │
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+          Trip Planner   Destination    Blog Writer
+                          Finder
 ```
 
-<br/>
+---
 
-## `> about --me`
+# 💼 Experience
 
-I'm a final-year **B.Tech Computer Science Engineering** student at **IILM University, Greater Noida**, with a CGPA of 9.03/10. I enjoy taking a product from an empty folder to a live URL: designing the data model, building the API, wiring authentication, adding caching, shaping the interface and finally deploying it so anyone can use it.
+## 📊 Data Engineering Virtual Intern
 
-Most of my projects sit where **full-stack engineering** meets **applied AI and data**. I've built platforms that use LLMs for trip planning and content writing, and I've worked with real datasets end to end: cleaning, exploring, modelling and presenting the results. My internships in **data science** and **data engineering** gave me hands-on practice with Python, ETL pipelines and cloud data services.
+**EduSkills Foundation × AICTE**
+`Apr 2026 – Jun 2026`
 
-Outside of projects, I practise **data structures and algorithms in Java** on LeetCode, and as **Vice President of the university Coding Club** I help organise technical events that get students solving problems together.
+* Worked through a structured data engineering program covering **ETL, data pipelines and cloud computing fundamentals**.
+* Completed hands-on labs involving structured datasets and cloud-based data services.
+* Developed an understanding of modern data management and engineering workflows using **AWS Academy**.
 
-### What I focus on
+---
 
-- **Building complete products:** React and TypeScript front ends, Node.js and Express back ends, MongoDB and MySQL databases, secure login with JWT, OAuth and Passport.js.
-- **Making apps fast and dependable:** Redis session caching, pagination, sensible data models, and deployment on Render and Vercel.
-- **Adding practical AI:** calling LLM APIs (Groq with LLaMA 3) to power features users actually touch, such as a trip planner, a destination finder and a blog writer.
-- **Working with data:** cleaning and exploring datasets with Pandas and NumPy, visualising with Matplotlib and Seaborn, and learning ETL and pipeline fundamentals on AWS Academy.
-- **Strong fundamentals:** data structures, algorithms, OOP, DBMS and operating systems.
+## 📈 Data Science Intern
 
-### How I work
+**YBI Foundation Pvt. Ltd.**
+`May 2025 – Jul 2025`
 
-- I ship early, deploy often and learn from what breaks. I've debugged real deployment problems such as port conflicts, build failures, database connection errors and cache configuration.
-- I prefer working code I can run and observe over abstract plans.
-- I document what I learn so the next project starts faster.
+* Performed data cleaning, preprocessing and exploratory data analysis using **Python, Pandas and NumPy**.
+* Worked with real-world datasets to identify patterns and generate useful insights.
+* Built and evaluated machine learning models for prediction-oriented tasks.
+* Communicated analytical findings through data visualisations.
 
-<br/>
+---
 
-## `> stack --list`
+## 👥 Vice President — Coding Club
 
-<div align="center">
-<img src="assets/skills.svg" width="100%" alt="Tech stack" />
-</div>
+**IILM University**
+`Aug 2025 – Present`
 
-<details>
-<summary><b>📚 Full tech stack, in detail</b></summary>
+* Help organise and coordinate technical activities for students.
+* Led the **Tech Hunt** technical event focused on problem-solving and teamwork.
+* Encourage students to participate in coding, development and technical learning activities.
 
-<br/>
+---
 
-| Area | Technologies | What I use them for |
-|---|---|---|
-| **Languages** | Python, Java, JavaScript, TypeScript, SQL | Web apps, data analysis, DSA practice and database queries |
-| **Front end** | HTML, CSS, Bootstrap, Tailwind CSS, React | Responsive interfaces and component-based UIs |
-| **Back end** | Node.js, Express.js, REST APIs, Passport.js, JWT, OAuth | APIs, authentication and authorization |
-| **Databases** | MongoDB (Atlas, Mongoose), MySQL, Redis | Persistent data, relational queries and session caching |
-| **Data & ML** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter, EDA | Cleaning, exploring, visualising and modelling data |
-| **Cloud & tools** | AWS Academy, Docker, Git, GitHub, Postman, Linux, Figma, VS Code, Google Colab | Cloud labs, containers, version control, API testing and design |
-| **AI** | Groq API, LLaMA 3, prompt design | AI features inside full-stack products |
-| **CS fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems | Problem solving and system understanding |
+# 🎓 Education
 
-</details>
+| Institution                             | Program                               | Period              | Result            |
+| --------------------------------------- | ------------------------------------- | ------------------- | ----------------- |
+| **IILM University, Greater Noida**      | B.Tech — Computer Science Engineering | Aug 2023 – May 2027 | **CGPA: 9.03/10** |
+| **Saint Angels Public School, Baghpat** | Senior Secondary — CBSE               | Apr 2020 – Mar 2022 | **90%**           |
 
-<br/>
+---
 
-## `> projects --featured`
+# 📜 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* 🎓 **Full Stack Web Development** — Apna College · Dec 2025
+* ☕ **Java Programming Fundamentals** — Infosys Springboard · Aug 2025
+* 📊 **Data Science with Python** — Infosys Springboard · Apr 2025
 
-### 🧳 GhumiGumi
-**AI-powered travel blog platform**
+---
 
-JWT and Google OAuth login, full CRUD, admin dashboard, and AI Trip Planner, Destination Finder and Blog Writer. Redis session caching reduces response latency.
+# 🧠 Problem Solving
 
-![React](https://img.shields.io/badge/React-0B5394?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B5394?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B5394?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B5394?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0B5394?style=flat-square&logo=redis&logoColor=white)
+I regularly practise **Data Structures and Algorithms in Java** and use LeetCode to strengthen algorithmic thinking and problem-solving skills.
 
-[**▶ Live Demo**](https://ghumigumi-1.onrender.com)
+Current areas of practice include:
 
-</td>
-<td width="50%" valign="top">
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Recursion` · `Backtracking` · `Sliding Window` · `Binary Search`
 
-### 🏡 WanderLust
-**Airbnb-style travel listings platform**
+### DSA Repository
 
-Category filtering, pagination, Passport.js authentication and Cloudinary image uploads on MongoDB Atlas, deployed on Render.
+🔗 **LeetCode Solutions:**
+https://github.com/SalmanKhan123-dev/LEETCODE
 
-![Node.js](https://img.shields.io/badge/Node.js-0B5394?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0B5394?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B5394?style=flat-square&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0B5394?style=flat-square&logo=bootstrap&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0B5394?style=flat-square&logo=cloudinary&logoColor=white)
+---
 
-[**▶ Live Demo**](https://wanderlust-full-stack-project-fbuz.onrender.com)
+# 📂 Other Repositories
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| Repository                                                                                       | Description                                       |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| 🧠 [LEETCODE](https://github.com/SalmanKhan123-dev/LEETCODE)                                     | Java solutions to LeetCode problems               |
+| ☕ [Java-Programming](https://github.com/SalmanKhan123-dev/Java-Programming)                      | Java programming practice and fundamentals        |
+| ⚙️ [Compiler-Design](https://github.com/SalmanKhan123-dev/Compiler-Design)                       | Compiler design coursework                        |
+| 🎵 [Spotify_Clone](https://github.com/SalmanKhan123-dev/Spotify_Clone)                           | Spotify-inspired frontend built with HTML and CSS |
+| 🌐 [WebDev_practice](https://github.com/SalmanKhan123-dev/WebDev_practice)                       | Web development practice projects                 |
+| 💰 [Personal-Finance-Dashboard](https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard) | Python-based financial analytics dashboard        |
 
-### 💸 Personal Finance Dashboard
-**Budgeting and spending analytics**
+---
 
-Automated expense categorisation, monthly spending-trend analysis, report generation and an interactive dashboard.
+# 🏆 Achievements & Activities
 
-![Python](https://img.shields.io/badge/Python-0B5394?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0B5394?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0B5394?style=flat-square&logoColor=white)
+* 🥇 **Winner — Smart India Hackathon Internal Hackathon** · Sep 2025
+* 👥 **Vice President — Coding Club, IILM University**
+* 🛠️ **Participant — IEEE Education Week Workshop** · Apr 2025
+* 💻 Regular participant in coding and technical problem-solving activities
 
-[**▶ View Code**](https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard)
+---
 
-</td>
-<td width="50%" valign="top">
+# 📈 Current Focus
 
-### 🛡️ Cybersecurity Awareness Chatbot
-**AI chatbot for security training** *(in progress)*
-
-Designed from published research on GPT-enabled cybersecurity learning, aimed at making awareness training interactive and efficient.
-
-![LLM](https://img.shields.io/badge/LLM-0B5394?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/status-in_progress-d29922?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-### Project deep dives
-
-<details>
-<summary><b>🧳 GhumiGumi: features, architecture and what I solved</b></summary>
-
-<br/>
-
-**What it is:** a full-stack travel blog platform where people can read and publish travel stories, and use AI tools to plan trips and write posts.
-
-**Key features**
-- Secure sign-in with **JWT** and **Google OAuth**
-- Full **CRUD** for blog posts and an **admin dashboard** for managing content
-- **AI Trip Planner**, **Destination Finder** and **Blog Writer** powered by the **Groq API (LLaMA 3)**
-- **Redis session caching** to cut response latency
-- TypeScript on both the React front end and the Node.js / Express back end
-- Deployed on **Render**
-
-**Challenges I worked through:** port binding on the host, build failures, MongoDB connection errors and Redis configuration in a deployed environment.
-
-```mermaid
-flowchart LR
-    U([User]) --> C[React + TypeScript client]
-    C -->|REST + JWT / Google OAuth| A[Node.js + Express API]
-    A --> M[(MongoDB)]
-    A <--> R[(Redis session cache)]
-    A --> G[Groq API · LLaMA 3]
-    G --> F[Trip Planner · Destination Finder · Blog Writer]
+```text
+Full-Stack Development
+        │
+        ├── React + TypeScript
+        ├── Node.js + Express
+        ├── MongoDB + Redis
+        │
+        ▼
+Applied AI
+        │
+        ├── LLM Integration
+        ├── AI Product Features
+        └── Prompt Engineering
+        │
+        ▼
+Data Engineering
+        │
+        ├── ETL Pipelines
+        ├── Cloud Data Services
+        └── Large-Scale Data Processing
+        │
+        ▼
+Problem Solving
+        │
+        ├── Java
+        ├── DSA
+        └── LeetCode
 ```
 
-[▶ Live Demo](https://ghumigumi-1.onrender.com)
+---
 
-</details>
+# 🎯 2026 Goals
 
-<details>
-<summary><b>🏡 WanderLust: features and deployment lessons</b></summary>
+* 🚀 Complete and deploy the **Cybersecurity Awareness Chatbot**
+* ☁️ Deepen knowledge of **data engineering and cloud platforms**
+* 🧠 Strengthen **DSA and competitive programming in Java**
+* 🤖 Build more practical **AI-powered full-stack applications**
+* 📊 Work with larger and more realistic datasets
+* 🌍 Build software that solves real-world problems
 
-<br/>
+---
 
-**What it is:** an Airbnb-style web application where users browse and create travel listings.
+# 🌐 Connect With Me
 
-**Key features**
-- Full **CRUD** on listings with **category tagging** and **pagination**
-- Authentication with **Passport.js**
-- Image uploads through **Cloudinary**
-- Server-rendered pages with **EJS** and a **Bootstrap** interface with a custom teal ocean theme
-- Data stored in **MongoDB Atlas** via Mongoose, deployed on **Render**
+I'm always interested in discussing:
 
-**What I learned:** MongoDB Atlas must allow Render's dynamic IPs, seed scripts should target the Atlas connection explicitly, and sessions need care when an app runs behind a hosting proxy.
+`Full-Stack Development` · `AI Projects` · `Data Engineering` · `Data Science` · `DSA` · `Open Source`
 
-[▶ Live Demo](https://wanderlust-full-stack-project-fbuz.onrender.com)
+| Platform         | Link                                                      |
+| ---------------- | --------------------------------------------------------- |
+| 🌐 **Portfolio** | https://portfolio-salman-khan4.vercel.app/                |
+| 💼 **LinkedIn**  | https://www.linkedin.com/in/khansalman2005                |
+| 🐙 **GitHub**    | https://github.com/SalmanKhan123-dev                      |
+| 📧 **Email**     | [khansalmanacc@gmail.com](mailto:khansalmanacc@gmail.com) |
 
-</details>
+---
 
-<details>
-<summary><b>💸 Personal Finance Dashboard: what it does</b></summary>
+### 💬 "Build it. Break it. Understand it. Improve it."
 
-<br/>
-
-**What it is:** a Python application for personal budgeting.
-
-**Key features**
-- **Automated expense categorisation**
-- **Monthly spending-trend analysis**
-- **Financial report generation**
-- An **interactive dashboard** for tracking spending patterns with clear, intuitive visualisations
-
-**Built with:** Python, Pandas and Matplotlib.
-
-[▶ View Code](https://github.com/SalmanKhan123-dev/Personal-Finance-Dashboard)
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio Website: what's inside</b></summary>
-
-<br/>
-
-A personal portfolio with a hero photo card, a project gallery, a downloadable resume and a working contact form powered by **EmailJS**. I've iterated on its visual theme several times, moving from a dark gold-and-black look to a light neutral palette with gradient accents.
-
-[▶ Live Site](https://portfolio-salman-khan4.vercel.app/) · [▶ View Code](https://github.com/SalmanKhan123-dev/Portfolio)
-
-</details>
-
-<details>
-<summary><b>🛡️ Cybersecurity Awareness Chatbot: research behind it</b></summary>
-
-<br/>
-
-My major project is an AI chatbot for cybersecurity awareness training. I'm grounding the design in published research, including *GPT-Enabled Cybersecurity Training* (WISE 2024) and *Efficiency of an AI Chatbot for IT-Awareness and Cybersecurity Learning* (CYBER 2022).
-
-</details>
-
-<br/>
-
-## `> journey --timeline`
-
-```mermaid
-timeline
-    title Path so far
-    2023 : Started B.Tech CSE at IILM University
-    2024 : Data analysis projects in Python
-    2025 : Data Science Intern at YBI Foundation
-         : Vice President, Coding Club
-         : Java and Data Science certifications
-         : Full Stack Web Development certification
-    2026 : Data Engineering Intern at EduSkills (AICTE)
-         : Shipped GhumiGumi and WanderLust
-         : Building the cybersecurity chatbot
-```
-
-<br/>
-
-## `> education`
-
-| Institution | Program | Period | Result |
-|---|---|---|---|
-| **IILM University**, Greater Noida | B.Tech, Computer Science Engineering | Aug 2023 – May 2027 | CGPA 9.03/10 (Final Year) |
-| **Saint Angels Public School**, Baghpat | Senior Secondary (Class XII), CBSE | Apr 2020 – Mar 2022 | 90% |
-
-<br/>
-
-## `> experience --expand`
-
-<details open>
-<summary><b>💼 Data Engineering Virtual Intern</b> · EduSkills Foundation (AICTE) · <i>Apr 2026 – Jun 2026</i></summary>
-
-<br/>
-
-- Completed a structured data engineering program covering **ETL processes, data pipelines, cloud computing fundamentals and data-management techniques** on AWS Academy.
-- Applied modern data-engineering workflows through **hands-on labs** with structured datasets and cloud data services.
-
-</details>
-
-<details>
-<summary><b>📈 Data Science Intern</b> · YBI Foundation Pvt. Ltd. · <i>May 2025 – Jul 2025</i></summary>
-
-<br/>
-
-- Analysed real-world datasets end to end in **Python (Pandas, NumPy)**: data cleaning, preprocessing and exploratory data analysis.
-- Built and evaluated **machine learning models** for prediction tasks and communicated findings through clear data visualisations.
-
-</details>
-
-<details>
-<summary><b>🏆 Vice President, Coding Club</b> · IILM University · <i>Aug 2025 – Present</i></summary>
-
-<br/>
-
-- Organised and led the technical event **Tech Hunt** to promote problem-solving and teamwork among students.
-
-</details>
-
-<details>
-<summary><b>🎓 Certifications</b></summary>
-
-<br/>
-
-- **Full Stack Web Development**, Apna College (Dec 2025)
-- **Java Programming Fundamentals**, Infosys Springboard (Aug 2025)
-- **Data Science with Python**, Infosys Springboard (Apr 2025)
-
-</details>
-
-<br/>
-
-## `> problem-solving`
-
-I practise **data structures and algorithms in Java** and solve problems on **LeetCode**, recently working through linked lists, from understanding the concept to writing runnable code and tracing it step by step. My practice lives in the repositories below.
-
-<br/>
-
-## `> repos --other`
-
-| Repository | What's inside |
-|---|---|
-| [LEETCODE](https://github.com/SalmanKhan123-dev/LEETCODE) | LeetCode solutions in Java |
-| [Java-Programming](https://github.com/SalmanKhan123-dev/Java-Programming) | Java practice and fundamentals |
-| [Compiler-Design](https://github.com/SalmanKhan123-dev/Compiler-Design) | Compiler design coursework in Java |
-| [Spotify_Clone](https://github.com/SalmanKhan123-dev/Spotify_Clone) | HTML/CSS Spotify UI clone from the start of my web development journey |
-| [WebDev_practice](https://github.com/SalmanKhan123-dev/WebDev_practice) | Web development practice exercises |
-
-<br/>
-
-## `> next --goals`
-
-- Finish and publish the **cybersecurity awareness chatbot**.
-- Go deeper into **data engineering**: pipelines, cloud data services and larger datasets.
-- Keep sharpening **DSA and competitive programming** in Java.
-- Build more **AI-powered full-stack products** and get them in front of real users.
-
-<br/>
-
-## `> stats --live`
-
-<div align="center">
-
-<img src="assets/stats.svg" width="100%" alt="GitHub stats and most used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=SalmanKhan123-dev&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SalmanKhan123-dev/SalmanKhan123-dev/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-## `> contact --open`
-
-I'm always happy to talk about full-stack and AI projects, collaboration, DSA problems or Coding Club events. The fastest way to reach me is email or LinkedIn.
-
-| | |
-|---|---|
-| 🌐 **Portfolio** | [portfolio-salman-khan4.vercel.app](https://portfolio-salman-khan4.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/khansalman2005](https://www.linkedin.com/in/khansalman2005) |
-| 📧 **Email** | [khansalmanacc@gmail.com](mailto:khansalmanacc@gmail.com) |
-
-<div align="center">
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
-</div>
+Thanks for visiting my profile! 🚀
